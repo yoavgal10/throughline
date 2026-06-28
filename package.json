@@ -1,0 +1,22 @@
+{
+  "name": "@throughline/core",
+  "version": "0.1.0",
+  "description": "Agentic customer intelligence for B2B revenue teams.",
+  "license": "MIT",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "test": "echo \"no tests yet\" && exit 0"
+  },
+  "keywords": [
+    "customer-intelligence",
+    "agentic",
+    "revenue-operations",
+    "b2b",
+    "churn",
+    "ai"
+  ],
+  "author": "Throughline",
+  "dependencies": {}
+}
